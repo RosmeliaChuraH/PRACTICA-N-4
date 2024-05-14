@@ -1,0 +1,9 @@
+com\emergentes\modelo\Usuario.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\dao\PostDAOimpl.class
+com\emergentes\controlador\Inicio.class
+com\emergentes\controlador\InicioU.class
+com\emergentes\dao\UsuarioDAOimpl.class
+com\emergentes\dao\PostDAO.class
+com\emergentes\dao\UsuarioDAO.class
+com\emergentes\modelo\Post.class
